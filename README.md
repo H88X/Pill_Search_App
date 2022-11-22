@@ -28,6 +28,16 @@
 
 학습시키는 알약 외형의 데이터를 증강시켜 학습시의 Overfitting을 방지한다. 이미지 증강을 위한 라이브러리, Imagug 라이브러리를 활용하여 노이즈 추가, 흔들림, 이미지의 회전 효과를 가해 유사하지만 변형을 가한 데이터를 수집한다. 
 
+![image](https://user-images.githubusercontent.com/83694715/203322743-f19c461f-a133-4e61-bbfa-9ac327a17d7d.png)
+
+![image](https://user-images.githubusercontent.com/83694715/203322751-0d64f7a1-13a0-403d-871a-6f9cd75d8f49.png)
+
+![image](https://user-images.githubusercontent.com/83694715/203322787-a9655a05-0ce3-46f3-aa5e-e94737702bfc.png)
+
+![image](https://user-images.githubusercontent.com/83694715/203322797-2eaecd41-ba47-4f20-8f11-e0e50931906f.png)
+
+
+
 2)Roboflow
 
 무료 데이터셋 제작을 지원하는 Roboflow 웹사이트를 통해 바운딩 박스처리나, 데이터 증강을 가해 변형을 가한 데이터를 수집한다.
