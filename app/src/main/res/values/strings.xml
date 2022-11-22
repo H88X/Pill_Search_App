@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">알약서치</string>
+    <string name="MainButton">메인으로</string>
+    <string name="LibraryButton">라이브러리로</string>
+    <string name="ModcolS_name">모드콜S</string>
+    <string name="ModcolS_details">감기의 제증상(여러증상)(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한 (춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화</string>
+    <string name="Taksen_name">탁센연질캡슐(나프록센)</string>
+    <string name="Taksen_details">류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염[힘줄염], 급성 통풍, 월경곤란증</string>
+    <string name="Taksen_use">1. 류마티양 관절염, 골관절염, 강직성 척추염\n
+성인: 나프록센으로서 1회 250~500㎎ 1일 2회(12시간마다) 경구투여하십시오.[복용하십시오.] \n
+\n
+2. 급성통풍\n
+성인: 나프록센으로서 초회량[처음 복용량]으로 750㎎을 경구투여하고 발작이 소실[없어짐]될 때까지 8시간간격으로 250㎎을 경구 투여하십시오. [복용하십시오.]\n
+\n
+3. 골격근장애, 수술후 동통[통증], 발치[이를 뽑음]후 동통[통증], 월경곤란증, 건염[힘줄염], 활액[윤활]낭염\n
+성인: 나프록센으로서 초회량[처음 복용량]으로 500㎎을 경구투여한 후 6~8시간간격 으로 250㎎씩 투여하십시오. 1일 총용량이 1,250㎎을 초과하지 않도록 하십시오.\n
+\n
+4. 편두통\n
+성인 : 나프록센으로서 초회량[처음 복용량]으로 750㎎을 경구투여 하십시오. [복용하십시오.] 필요하면 1일 250-500㎎을 더 투여할 수 있으며 초회량[처음 복용량]의 투여 30분후에 투여하십시오.\n
+\n
+1일 총용량이 1250㎎을 초과하지 않도록 하십시오.\n
+\n
+연령[나이], 증상에 따라 적절히 증감하십시오.\n  </string>
+    <string name="More"> 더보기 </string>
+    <string name="Back"> 뒤로가기 </string>
+    <string name="ModcolS_use"> 만 15세 이상 및 성인: 1일 3회, 1회 2캡슐 식후30분에 복용 \n 만 11세 이상-만 15세 미만: 1일 3회, 1회 1⅓캡슐 식후 30분에 복용 \n 만 7세 초과-만 11세 미만: 1일 3회, 1회 1 캡슐 식후 30분에 복용</string>
+
+    <string name="Geborin_name">게보린</string>
+    <string name="Geborin_short">두통, 치통, 발치후 통증, 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요통, 근육통, 견통, 타박통, 골절통, 염좌통, 월경통(생리통), 외상통의 진통, 오한, 발열시의 해열\n</string>
+    <string name="Geborin_details">* 두통, 치통, 발치(이를 뽑음)후 동통(통증), 인후(목구멍)통, 귀의 통증, 관절통, 신경통, 요(허리)통, 근육통, 견통(어깨결림), 타박통, 골절통, 염좌통(삔 통증), 월경통(생리통), 외상(상처)통의 진통 \n
+                                    * 오한(춥고 떨리는 증상), 발열시의 해열\n</string>
+    <string name="Geborin_use">1일 3회까지 공복(빈 속)시를 피하여 복용한다. \n
+\n
+복용간격은 4시간 이상으로 한다.\n
+\n
+성인(만 15세 이상) : 1회 1정\n
+\n
+만 11세 이상 ~ 만 15세 미만 : 1회 2/3정\n
+\n
+만 8세 이상 ~ 만 11세 미만 : 1회 1/2정</string>
+
+    <string name="Inhusin_capsule_name">인후신</string>
+    <string name="Inhusin_capsule_details">감기로 인한 목구멍 통증, 목마름, 기침, 두통</string>
+    <string name="Inhusin_capsule_use">보통 성인 1회 2캡슐(2정), 7～14세 1캡슐(1정)을\n
+\n
+1일 3회 식전 또는 식간에 복용한다.</string>
+
+    <string name="Tenten_name">텐텐</string>
+    <string name="Tenten_short"> 비타민 A,B1,B2,B6,C,D,E 의 보급\n</string>
+    <string name="Tenten_details">다음 경우의 비타민 A,B1,B2,B6,C,D,E 의 보급\n
+\n
+- 발육기\n
+- 병중 · 병후(병을 앓는 동안이나 회복 후)의 체력저하시\n
+- 육체피로\n
+- 임신 · 수유기\n
+- 노년기\n
+- 이 약에 함유된 비타민 등의 효능·효과는 다음과 같다\n
+  · 눈의 건조함의 완화\n
+  · 야맹증\n
+  · 뼈, 이의 발육불량\n
+  · 구루병의 예방\n</string>
+    <string name="Tenten_use">만 8세 이상 : 1일 2회, 1회 2정
+\n
+만 36개월 이상 ~ 만 8세 미만 : 1일 2회, 1회 1정\n
+입안에서 녹이거나 씹어서 복용한다.</string>
+
+    <string name="Depakote_name">데파코트</string>
+    <string name="Depatoke_short">단순 결신성발작(소발작), 양극성 장애와 관련된 조증의 치료,편두통의 예방</string>
+    <string name="Depatoke_details">1. 단독 또는 다른 형태의 발작과 관련되어 발생하는 복합 부분발작 치료의 단독요법 및 보조요법\n
+단순 결신성발작(소발작) 및 혼합 결신성발작 치료의 단독요법 및 보조요법, 결신성발작을 포함하는 여러 형태의 발작의 보조요법\n
+\n
+2. 양극성 장애와 관련된 조증의 치료
+\n
+단, 조증에 대하여 3주 이상 장기사용시 안전성·유효성은 체계적으로 확립되어 있지 않으므로, 장기사용하는 경우에는 각 환자에 대한 유용성을 지속적으로 재평가하여야 한다.\n
+\n
+3. 편두통의 예방
+\n
+단, 편두통의 급성 치료에 유효하다는 증거는 확립되어 있지 않다.</string>
+    <string name="Depakote_use">이 약은 씹지 말고 정제 전체를 삼켜야 한다.\n
+        10세 이상 소아 및 성인에게 투여 가능하다.
+    </string>
+
+    <string name="Tylenol_cold_name">타이레놀 콜드</string>
+    <string name="Tylenol_cold_details">감기의 제증상(여러 증상)(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화\n</string>
+    <string name="Tylenol_cold_use">다음 1회의 용량을 1일 3회 식후 30분에 복용한다.\n
+1회 용량: 15세 이상 - 1정</string>
+
+    <string name="Tylenol_er_name">타이레놀 ER</string>
+    <string name="Tylenol_er_details">해열 및 감기에 의한 동통(통증)과 두통, 치통, 근육통, 허리동통(통증), 생리통, 관절통의 완화\n</string>
+    <string name="Tylenol_er_use">12세 이상의 소아 및 성인: 매 8시간마다 2정씩 복용\n
+24시간 동안 6정을 초과하지 말 것</string>
+
+    <string name="Tagsen_name">탁센</string>
+    <string name="Tagsen_details">탁센</string>
+    <string name="Tagsen_use">탁센</string>
+
+    <string name="Pensag_name">펜싹코프</string>
+    <string name="Pensag_details">감기의 제증상(여러증상)(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통, 관절통, 근육통)의 완화\n</string>
+    <string name="Pensag_use">만 15세 이상 및 성인: 1일 3회, 1회 2캡슐 식후30분에 복용</string>
+
+    <string name="Mode_Cough_S_name">모드콜S</string>
+    <string name="Mode_Cough_S_details">모드콜S</string>
+    <string name="Mode_Cough_S_use">모드콜S</string>
+
+    <string name="Cefalexin_name">쎄파렉신</string>
+    <string name="Cefalexin_details">감기로 인한 목구멍 통증, 목마름, 기침, 두통\n</string>
+    <string name="Cefalexin_use">보통 성인 1회 2캡슐, 7∼14세 1캡슐을 1일 3회 식전 또는 식간에(식사때와 식사때 사이에)복용한다.</string>
+
+    <string name="Image_Upload">이미지 업로드</string>
+    <string name="Result"> 이 약은 %s입니다 </string>
+</resources>
